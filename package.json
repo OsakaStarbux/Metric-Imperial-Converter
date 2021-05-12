@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "lodash": ">=4.17.19",
+    "lodash": ">=4.17.21",
     "cors": "^2.8.5",
     "body-parser": "^1.19.0",
     "serialize-javascript": ">=3.1.0",
