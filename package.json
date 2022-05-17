@@ -21,7 +21,8 @@
     "mocha": "^8.1.2",
     "zombie": "^6.1.4",
     "helmet": "^4.1.0",
-    "mathjs": "^7.5.1"
+    "mathjs": "^7.5.1",
+    "json-schema": ">=0.4.0"
   },
   "engines": {
     "node": "4.4.3"
